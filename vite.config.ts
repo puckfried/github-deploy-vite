@@ -1,5 +1,5 @@
 import {defineConfig} from "vite"
 
 export default defineConfig({
-  base: './',         // <--- Hier wird auf relative Pfade umgestellt
+  base: '/github-deploy-vite/',         // <--- Hier wird auf relative Pfade umgestellt
 })
